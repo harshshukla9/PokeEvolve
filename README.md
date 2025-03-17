@@ -5,6 +5,14 @@ A blockchain-based Pokémon-inspired NFT game where players can collect, evolve,
 ![Pokémon NFT Game Banner]![Screenshot from 2025-03-18 02-45-37](https://github.com/user-attachments/assets/44301383-8f9a-4146-8ef8-c35b752791af)
 
 
+
+## 🎥 Demo
+
+Check out our demo video to see the game in action:
+
+https://youtu.be/T5gkbzAaNAk
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -166,11 +174,7 @@ The upcoming battle feature will allow players to:
 ![Screenshot from 2025-03-18 02-47-04](https://github.com/user-attachments/assets/13459289-f248-4c4c-9a6f-c63a0f2035e0)
 
 
-## 🎥 Demo
 
-Check out our demo video to see the game in action:
-
-https://youtu.be/T5gkbzAaNAk
 
 ## 🔮 Future Development
 
